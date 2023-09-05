@@ -1,1 +1,2 @@
 echo "This is a test to connect github to Jenkins"
+Pray always
